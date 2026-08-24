@@ -1,3 +1,5 @@
+<img src="dark_mode.svg" width="100%" />
+
 ## Hi there 👋
 
 <!--
