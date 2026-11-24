@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I'm currently working on AuditGuard-AI, a MERN stack audit & risk analytics platform with an interactive dashboard for identifying high-risk records and vendor patterns<br>👯 I'm looking to collaborate on open-source MERN stack projects and hackathon builds, especially data-driven dashboards<br>🤝 I'm looking for help with system design and scaling backend architecture for full-stack applications<br>🌱 I'm currently learning Graphs and Tries, along with deployment using Docker<br>💬 Ask me about MERN stack development, REST API design, or Data Structures & Algorithms<br>⚡ Fun fact: I've solved 700+ coding problems across platforms, including 500+ on LeetCode<br>
+
+🔭 I'm a **Full Stack Developer** building scalable web applications using the MERN Stack, including interactive dashboards and data-driven platforms.
+
+👯 I'm looking to collaborate on **open-source MERN Stack projects, hackathons, and innovative full-stack applications**.
+
+🤝 I'm looking for opportunities to contribute to real-world projects and grow as a **Full Stack Developer**.
+
+🌱 I'm currently exploring **Graphs, Tries, and Docker**, while continuously improving my development and problem-solving skills.
+
+💬 Ask me about **React.js, MERN Stack Development, REST API Design, Java, and Data Structures & Algorithms**.
+
+⚡ Fun fact: I've solved **700+ coding problems** across platforms, including **350+ on LeetCode**.
+
+🚀 **Immediate Joiner | Open to Full-Time Opportunities and Internships**
 
 
 ## 🌐 Socials:
